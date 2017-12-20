@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Ben</strong> Berger
+description: <a href="">NBER Research Assistant</a>.
 
 profile:
   align: right
