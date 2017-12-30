@@ -8,16 +8,16 @@ profile:
   align: right
   image: prof_pic.png
   address: >
-    <p>National Bureau of Economic Research</p>
-    <p>1050 Massachusetts Avenue</p>
+    <p>1050 Massachusetts Ave.</p>
     <p>Cambridge, MA 02138</p>
+    <p>717-602-2420</p>
 
 news: false
-social: false
+social: true
 ---
 
-I'm currently a research assistant at the National Bureau of Economic Research. My research focuses on regulation of biomedical technology and racial disparities in health outcomes.
+I am applying for doctoral programs in economics for Fall 2018, planning to focus on health economics.
 
-I graduated magna cum laude with a Bachelor's Degree in Economics and Mathematics from the University of Miami. 
+I am currently a Research Assistant at the National Bureau of Economic Research and a Harvard Kennedy School Research Affiliate. My research has focused largely on racial disparities in health outcomes among the elderly and regulatory incentives for biomedical innovation.
 
-Test another paragraph!
+I graduated magna cum laude in 2016 with a Bachelor's Degree in Economics and Mathematics from the University of Miami.
