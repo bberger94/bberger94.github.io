@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am applying for doctoral programs in economics for Fall 2018, planning to focus on health economics.
+I am applying for doctoral programs for Fall 2018, planning to focus on health policy and innovation.
 
 I am currently a Research Assistant at the National Bureau of Economic Research and a Harvard Kennedy School Research Affiliate. My research has focused largely on racial disparities in health outcomes among the elderly and regulatory incentives for biomedical innovation.
 
